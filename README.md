@@ -1,0 +1,1 @@
+Programa hecho en JavaScript que genera un número aleatorio e imprime por consola si es mayor o menor que 0.5
